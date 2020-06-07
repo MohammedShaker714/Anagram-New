@@ -6,4 +6,3 @@ files:
   - source: /
     destination: /home/ec2-user/sample-app
     
-    
